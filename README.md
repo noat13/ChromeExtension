@@ -1,3 +1,5 @@
+Tesing git : copy from https://github.com/maxbeizer/simple-chrome-extension.git
+
 # Simple Chrome Extension
 Learning the basics of chrome extensions from [Thoughtbot](https://robots.thoughtbot.com/how-to-make-a-chrome-extension).
 
